@@ -10,14 +10,14 @@ include("config.php");
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black" />
         <title>SocketControl</title>
-        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/jquery.mobile/1.2.0/jquery.mobile-1.2.0.min.css" />
+        <link rel="stylesheet" href="css/jquery.mobile-1.2.0.min.css" />
 		<link rel="apple-touch-icon" href="img/icon57x57.png" />
 		<link rel="apple-touch-icon" sizes="72x72" href="img/icon72x72.png" />
 		<link rel="apple-touch-icon" sizes="114x114" href="img/icon114x114.png" />
 		<link rel="apple-touch-icon" sizes="144x144" href="img/icon144x144.png" />
     	<link rel="apple-touch-startup-image" href="img/splash.png" />  
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-        <script src="https://ajax.aspnetcdn.com/ajax/jquery.mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
+        <script src="js/jquery-1.8.2.min.js"></script>
+        <script src="js/jquery.mobile-1.2.0.min.js"></script>
         <script>
             try {
 
