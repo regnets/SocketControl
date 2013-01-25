@@ -1,0 +1,20 @@
+ToDo
+==============================
+- Automatically install via install.sh (including necessary library and webserver)
+- Enable labels for the sockets, so that it is easier so operate them via url (i.e. http://rbp/index.php?label=Desklamp&state=on)
+- Enable configuration by webinterface instead of config.php
+- Logging (When was What switched on by Who)
+- Multi Language Support
+- Authentication via Username/Cookie
+- Use Cookies so that the user doesn't have to enter the credentials each time
+- Optimize Webtraffic so that preferably few web request got send over cellular
+
+Done
+==============================
+- Configuration in one file (config.php)
+- Option to send commands repeatedly
+- Option to group socket in groups
+- Customization of the App to work good at a iDevice (Custom Home Screen Icon/No Resizing/No Navbar)
+- Integrate send binary from rcswitch-pi in the repository 
+- Use github as repository
+- Option to switch a whole group of sockets on/off
